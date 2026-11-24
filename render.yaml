@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: ff-glory-dashboard
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: ./web
