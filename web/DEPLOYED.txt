@@ -1,0 +1,1 @@
+BR Rank Squad Control Panel web dashboard source. Served as static files by Cloudflare Pages.
