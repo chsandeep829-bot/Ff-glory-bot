@@ -1,0 +1,709 @@
+[20:11:20.752] Tcp Connected => sandeep_8qpx
+[20:11:20.772] Tcp Connected => sandeep_ca25
+[20:11:20.836] Tcp Connected => sandeep_zd31
+[20:11:21.016] Tcp Connected => sandeep_y6vo
+[20:11:42.623] [BR TIMER] Attempt b42f0f329f6a: all 4 BR assignments received; 690-second end-confirmation fallback started.
+[20:11:43.110] [UDP [S2]] hello sent; waiting for server response
+[20:11:43.133] [UDP [M]] hello sent; waiting for server response
+[20:11:43.241] [UDP [S1]] hello sent; waiting for server response
+[20:11:43.367] [UDP [S3]] hello sent; waiting for server response
+[20:11:43.398] [UDP [S2]] startup packets sent; awaiting match state
+[20:11:43.477] [UDP [M]] startup packets sent; awaiting match state
+[20:11:43.656] [UDP [S1]] startup packets sent; awaiting match state
+[20:11:43.702] [UDP [S3]] startup packets sent; awaiting match state
+[20:12:13.114] [BR-WATCH] [S2] phase=thunder_sharma_sent layout_source=assignment elapsed=30.0s rx_idle=0.0s self_age=none started=1 state_seen=1 self_id=0 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=5744 wrong_source=0 undecodable=3525 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=338 opaque103=0 opaque107=0 opaque139=0 opaque256=0 opaque393=0
+[20:12:13.139] [BR-WATCH] [M] phase=thunder_sharma_sent layout_source=assignment elapsed=30.0s rx_idle=0.0s self_age=none started=1 state_seen=1 self_id=0 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=4484 wrong_source=0 undecodable=2505 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=351 opaque103=0 opaque107=0 opaque139=0 opaque256=0 opaque393=0
+[20:12:13.242] [BR-WATCH] [S1] phase=thunder_sharma_sent layout_source=assignment elapsed=30.0s rx_idle=0.0s self_age=none started=1 state_seen=1 self_id=0 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=4966 wrong_source=0 undecodable=2696 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=478 opaque103=0 opaque107=0 opaque139=0 opaque256=0 opaque393=0
+[20:12:13.372] [BR-WATCH] [S3] phase=thunder_sharma_sent layout_source=assignment elapsed=30.0s rx_idle=0.0s self_age=none started=1 state_seen=1 self_id=0 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=4985 wrong_source=0 undecodable=2429 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=361 opaque103=0 opaque107=0 opaque139=0 opaque256=0 opaque393=0
+[MOVE STATE] [M]: waiting position/assignment gate 69999ms
+[MOVE STATE] [S1]: waiting position/assignment gate 69995ms
+[MOVE STATE] [S3]: waiting position/assignment gate 69994ms
+[MOVE STATE] [S2]: waiting position/assignment gate 69997ms
+[20:12:43.116] [BR-WATCH] [S2] phase=thunder_sharma_sent layout_source=assignment elapsed=60.0s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=12499 wrong_source=0 undecodable=7119 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=403 opaque103=0 opaque107=0 opaque139=0 opaque256=0 opaque393=0
+[20:12:43.139] [BR-WATCH] [M] phase=thunder_sharma_sent layout_source=assignment elapsed=60.0s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=10745 wrong_source=0 undecodable=6081 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=400 opaque103=0 opaque107=0 opaque139=0 opaque256=0 opaque393=0
+[20:12:43.269] [BR-WATCH] [S1] phase=thunder_sharma_sent layout_source=assignment elapsed=60.0s rx_idle=0.0s self_age=0.2s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=10407 wrong_source=0 undecodable=6026 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=728 opaque103=0 opaque107=0 opaque139=0 opaque256=0 opaque393=0
+[20:12:43.400] [BR-WATCH] [S3] phase=thunder_sharma_sent layout_source=assignment elapsed=60.0s rx_idle=0.1s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=10647 wrong_source=0 undecodable=5988 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=661 opaque103=0 opaque107=0 opaque139=0 opaque256=0 opaque393=0
+[20:13:13.139] [BR-WATCH] [S2] phase=thunder_sharma_sent layout_source=assignment elapsed=90.0s rx_idle=0.0s self_age=0.2s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=21862 wrong_source=0 undecodable=10052 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=453 opaque103=0 opaque107=16 opaque139=0 opaque256=0 opaque393=0
+[20:13:13.164] [BR-WATCH] [M] phase=thunder_sharma_sent layout_source=assignment elapsed=90.0s rx_idle=0.0s self_age=0.0s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=18539 wrong_source=0 undecodable=8670 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=450 opaque103=0 opaque107=23 opaque139=0 opaque256=0 opaque393=0
+[20:13:13.269] [BR-WATCH] [S1] phase=thunder_sharma_sent layout_source=assignment elapsed=90.0s rx_idle=0.1s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=17339 wrong_source=0 undecodable=9061 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=842 opaque103=0 opaque107=4 opaque139=0 opaque256=0 opaque393=0
+[20:13:13.402] [BR-WATCH] [S3] phase=thunder_sharma_sent layout_source=assignment elapsed=90.0s rx_idle=0.0s self_age=0.2s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=17134 wrong_source=0 undecodable=9034 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=761 opaque103=0 opaque107=4 opaque139=0 opaque256=0 opaque393=0
+[MOVE STATE] [M]: movement datagram sent locally; count=1 (server acceptance unknown)
+[MOVE STATE] [S1]: movement datagram sent locally; count=1 (server acceptance unknown)
+[MOVE STATE] [S3]: movement datagram sent locally; count=1 (server acceptance unknown)
+[MOVE STATE] [S2]: movement datagram sent locally; count=1 (server acceptance unknown)
+[MOVE STATE] [S2]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[20:13:43.159] [BR-WATCH] [S2] phase=thunder_sharma_sent layout_source=assignment elapsed=120.0s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=26011 wrong_source=0 undecodable=11831 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=503 opaque103=0 opaque107=27 opaque139=0 opaque256=0 opaque393=0
+[20:13:43.179] [BR-WATCH] [M] phase=thunder_sharma_sent layout_source=assignment elapsed=120.0s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=22947 wrong_source=0 undecodable=10122 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=500 opaque103=0 opaque107=31 opaque139=0 opaque256=0 opaque393=0
+[20:13:43.269] [BR-WATCH] [S1] phase=thunder_sharma_sent layout_source=assignment elapsed=120.0s rx_idle=0.0s self_age=0.2s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=21712 wrong_source=0 undecodable=11631 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1177 opaque103=0 opaque107=4 opaque139=0 opaque256=0 opaque393=0
+[20:13:43.402] [BR-WATCH] [S3] phase=thunder_sharma_sent layout_source=assignment elapsed=120.0s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=24231 wrong_source=0 undecodable=12069 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=811 opaque103=0 opaque107=21 opaque139=0 opaque256=0 opaque393=0
+[MOVE STATE] [S2]: obstacle recovery attempt=2 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S2]: obstacle recovery attempt=3 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S2]: obstacle recovery attempt=4 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S3]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[MOVE STATE] [M]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[MOVE STATE] [S1]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[MOVE STATE] [S2]: obstacle recovery attempt=5 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S3]: obstacle recovery attempt=2 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [M]: obstacle recovery attempt=2 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S1]: obstacle recovery attempt=2 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S2]: obstacle recovery attempt=6 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S2]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [M]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S3]: obstacle recovery attempt=3 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [M]: obstacle recovery attempt=3 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S1]: obstacle recovery attempt=3 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S1]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S2]: obstacle recovery attempt=7 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S3]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S3]: obstacle recovery attempt=4 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [M]: obstacle recovery attempt=4 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S1]: obstacle recovery attempt=4 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S2]: obstacle recovery attempt=8 strategy=wide-turn; no 3s horizontal progress
+[20:14:13.162] [BR-WATCH] [S2] phase=thunder_sharma_sent layout_source=assignment elapsed=150.1s rx_idle=0.0s self_age=0.0s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=32275 wrong_source=0 undecodable=13818 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=553 opaque103=0 opaque107=31 opaque139=0 opaque256=0 opaque393=0
+[20:14:13.181] [BR-WATCH] [M] phase=thunder_sharma_sent layout_source=assignment elapsed=150.0s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=28871 wrong_source=0 undecodable=11924 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=550 opaque103=0 opaque107=35 opaque139=0 opaque256=0 opaque393=0
+[20:14:13.288] [BR-WATCH] [S1] phase=thunder_sharma_sent layout_source=assignment elapsed=150.0s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=29436 wrong_source=0 undecodable=14741 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1227 opaque103=0 opaque107=4 opaque139=0 opaque256=0 opaque393=0
+[20:14:13.405] [BR-WATCH] [S3] phase=thunder_sharma_sent layout_source=assignment elapsed=150.0s rx_idle=0.0s self_age=0.2s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=32340 wrong_source=0 undecodable=14078 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=861 opaque103=0 opaque107=29 opaque139=0 opaque256=0 opaque393=0
+[MOVE STATE] [S1]: movement datagram sent locally; count=30 (server acceptance unknown)
+[MOVE STATE] [S3]: movement datagram sent locally; count=30 (server acceptance unknown)
+[MOVE STATE] [S2]: movement datagram sent locally; count=30 (server acceptance unknown)
+[MOVE STATE] [M]: movement datagram sent locally; count=30 (server acceptance unknown)
+[MOVE STATE] [M]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S2]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S1]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S3]: experimental jump-shaped movement state sent; jump unconfirmed
+[20:14:43.162] [BR-WATCH] [S2] phase=thunder_sharma_sent layout_source=assignment elapsed=180.1s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=38826 wrong_source=0 undecodable=16339 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=603 opaque103=0 opaque107=35 opaque139=0 opaque256=0 opaque393=0
+[20:14:43.190] [BR-WATCH] [M] phase=thunder_sharma_sent layout_source=assignment elapsed=180.1s rx_idle=0.0s self_age=0.2s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=37241 wrong_source=0 undecodable=14304 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=600 opaque103=0 opaque107=39 opaque139=0 opaque256=0 opaque393=0
+[20:14:43.289] [BR-WATCH] [S1] phase=thunder_sharma_sent layout_source=assignment elapsed=180.0s rx_idle=0.0s self_age=0.0s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=34496 wrong_source=0 undecodable=17912 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1277 opaque103=0 opaque107=25 opaque139=0 opaque256=0 opaque393=0
+[20:14:43.441] [BR-WATCH] [S3] phase=thunder_sharma_sent layout_source=assignment elapsed=180.1s rx_idle=0.1s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=43100 wrong_source=0 undecodable=16435 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=911 opaque103=0 opaque107=33 opaque139=0 opaque256=0 opaque393=0
+[MOVE STATE] [M]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S2]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S1]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [M]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[MOVE STATE] [S3]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S2]: movement datagram sent locally; count=60 (server acceptance unknown)
+[MOVE STATE] [S3]: movement datagram sent locally; count=60 (server acceptance unknown)
+[MOVE STATE] [S1]: movement datagram sent locally; count=60 (server acceptance unknown)
+[MOVE STATE] [M]: movement datagram sent locally; count=60 (server acceptance unknown)
+[20:15:13.169] [BR-WATCH] [S2] phase=thunder_sharma_sent layout_source=assignment elapsed=210.1s rx_idle=0.0s self_age=0.0s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=44656 wrong_source=0 undecodable=19311 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=653 opaque103=0 opaque107=39 opaque139=0 opaque256=0 opaque393=0
+[20:15:13.191] [BR-WATCH] [M] phase=thunder_sharma_sent layout_source=assignment elapsed=210.1s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=43267 wrong_source=0 undecodable=17227 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=650 opaque103=0 opaque107=43 opaque139=0 opaque256=0 opaque393=0
+[20:15:13.289] [BR-WATCH] [S1] phase=thunder_sharma_sent layout_source=assignment elapsed=210.0s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=39649 wrong_source=0 undecodable=21152 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1327 opaque103=0 opaque107=32 opaque139=0 opaque256=0 opaque393=0
+[20:15:13.452] [BR-WATCH] [S3] phase=thunder_sharma_sent layout_source=assignment elapsed=210.1s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=50723 wrong_source=0 undecodable=19182 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=961 opaque103=0 opaque107=37 opaque139=0 opaque256=0 opaque393=0
+[MOVE STATE] [S2]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [M]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S1]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S3]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S2]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [M]: experimental jump-shaped movement state sent; jump unconfirmed
+[20:15:43.165] [BR-WATCH] [S2] phase=thunder_sharma_sent layout_source=assignment elapsed=240.1s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=53749 wrong_source=0 undecodable=22504 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=703 opaque103=0 opaque107=43 opaque139=0 opaque256=0 opaque393=0
+[20:15:43.197] [BR-WATCH] [M] phase=thunder_sharma_sent layout_source=assignment elapsed=240.1s rx_idle=0.0s self_age=0.2s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=50960 wrong_source=0 undecodable=20325 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=700 opaque103=0 opaque107=47 opaque139=0 opaque256=0 opaque393=0
+[20:15:43.291] [BR-WATCH] [S1] phase=thunder_sharma_sent layout_source=assignment elapsed=240.0s rx_idle=0.0s self_age=0.0s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=47372 wrong_source=0 undecodable=24358 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1377 opaque103=0 opaque107=36 opaque139=0 opaque256=0 opaque393=0
+[20:15:43.458] [BR-WATCH] [S3] phase=thunder_sharma_sent layout_source=assignment elapsed=240.1s rx_idle=0.0s self_age=0.2s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=58412 wrong_source=0 undecodable=22299 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1011 opaque103=0 opaque107=41 opaque139=0 opaque256=0 opaque393=0
+[MOVE STATE] [S1]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S3]: movement datagram sent locally; count=90 (server acceptance unknown)
+[MOVE STATE] [S2]: movement datagram sent locally; count=90 (server acceptance unknown)
+[MOVE STATE] [S1]: movement datagram sent locally; count=90 (server acceptance unknown)
+[MOVE STATE] [M]: movement datagram sent locally; count=90 (server acceptance unknown)
+[MOVE STATE] [S3]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S2]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S1]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [M]: experimental jump-shaped movement state sent; jump unconfirmed
+[20:16:13.177] [BR-WATCH] [S2] phase=thunder_sharma_sent layout_source=assignment elapsed=270.1s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=61480 wrong_source=0 undecodable=25632 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=753 opaque103=0 opaque107=47 opaque139=0 opaque256=0 opaque393=0
+[20:16:13.197] [BR-WATCH] [M] phase=thunder_sharma_sent layout_source=assignment elapsed=270.1s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=58376 wrong_source=0 undecodable=23299 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=750 opaque103=0 opaque107=51 opaque139=0 opaque256=0 opaque393=0
+[20:16:13.297] [BR-WATCH] [S1] phase=thunder_sharma_sent layout_source=assignment elapsed=270.1s rx_idle=0.0s self_age=0.2s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=53819 wrong_source=0 undecodable=27489 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1427 opaque103=0 opaque107=40 opaque139=0 opaque256=0 opaque393=0
+[20:16:13.469] [BR-WATCH] [S3] phase=thunder_sharma_sent layout_source=assignment elapsed=270.1s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=66436 wrong_source=0 undecodable=25250 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1061 opaque103=0 opaque107=45 opaque139=0 opaque256=0 opaque393=0
+[MOVE STATE] [M]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S2]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S3]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S1]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S3]: movement datagram sent locally; count=120 (server acceptance unknown)
+[MOVE STATE] [S2]: movement datagram sent locally; count=120 (server acceptance unknown)
+[MOVE STATE] [S1]: movement datagram sent locally; count=120 (server acceptance unknown)
+[MOVE STATE] [M]: movement datagram sent locally; count=120 (server acceptance unknown)
+[20:16:43.198] [BR-WATCH] [M] phase=thunder_sharma_sent layout_source=assignment elapsed=300.1s rx_idle=0.0s self_age=0.2s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=65130 wrong_source=0 undecodable=26194 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=800 opaque103=0 opaque107=55 opaque139=0 opaque256=0 opaque393=0
+[20:16:43.211] [BR-WATCH] [S2] phase=thunder_sharma_sent layout_source=assignment elapsed=300.1s rx_idle=0.0s self_age=0.2s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=67732 wrong_source=0 undecodable=28676 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=803 opaque103=0 opaque107=51 opaque139=0 opaque256=0 opaque393=0
+[MOVE STATE] [S3]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[20:16:43.299] [BR-WATCH] [S1] phase=thunder_sharma_sent layout_source=assignment elapsed=300.1s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=60704 wrong_source=0 undecodable=30387 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1477 opaque103=0 opaque107=44 opaque139=0 opaque256=0 opaque393=0
+[20:16:43.470] [BR-WATCH] [S3] phase=thunder_sharma_sent layout_source=assignment elapsed=300.1s rx_idle=0.0s self_age=0.2s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=75454 wrong_source=0 undecodable=28099 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1111 opaque103=0 opaque107=49 opaque139=0 opaque256=0 opaque393=0
+[MOVE STATE] [M]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S2]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[MOVE STATE] [S1]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S2]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[MOVE STATE] [S1]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[MOVE STATE] [S2]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S3]: experimental jump-shaped movement state sent; jump unconfirmed
+[20:17:13.201] [BR-WATCH] [M] phase=thunder_sharma_sent layout_source=assignment elapsed=330.1s rx_idle=0.1s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=71526 wrong_source=0 undecodable=29096 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=850 opaque103=0 opaque107=59 opaque139=0 opaque256=0 opaque393=0
+[20:17:13.211] [BR-WATCH] [S2] phase=thunder_sharma_sent layout_source=assignment elapsed=330.1s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=75952 wrong_source=0 undecodable=31683 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=853 opaque103=0 opaque107=55 opaque139=0 opaque256=0 opaque393=0
+[20:17:13.299] [BR-WATCH] [S1] phase=thunder_sharma_sent layout_source=assignment elapsed=330.1s rx_idle=0.1s self_age=0.2s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=66856 wrong_source=0 undecodable=33254 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1527 opaque103=0 opaque107=48 opaque139=0 opaque256=0 opaque393=0
+[20:17:13.516] [BR-WATCH] [S3] phase=thunder_sharma_sent layout_source=assignment elapsed=330.1s rx_idle=0.1s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=85303 wrong_source=0 undecodable=30902 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1161 opaque103=0 opaque107=53 opaque139=0 opaque256=0 opaque393=0
+[MOVE STATE] [M]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S1]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[MOVE STATE] [S1]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S3]: movement datagram sent locally; count=150 (server acceptance unknown)
+[MOVE STATE] [S1]: movement datagram sent locally; count=150 (server acceptance unknown)
+[MOVE STATE] [S2]: movement datagram sent locally; count=150 (server acceptance unknown)
+[MOVE STATE] [M]: movement datagram sent locally; count=150 (server acceptance unknown)
+[MOVE STATE] [S3]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S2]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S3]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[20:17:43.202] [BR-WATCH] [M] phase=thunder_sharma_sent layout_source=assignment elapsed=360.1s rx_idle=0.0s self_age=0.2s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=77228 wrong_source=0 undecodable=32169 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=900 opaque103=0 opaque107=63 opaque139=0 opaque256=0 opaque393=0
+[20:17:43.212] [BR-WATCH] [S2] phase=thunder_sharma_sent layout_source=assignment elapsed=360.1s rx_idle=0.0s self_age=0.0s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=81265 wrong_source=0 undecodable=34787 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=903 opaque103=0 opaque107=59 opaque139=0 opaque256=0 opaque393=0
+[20:17:43.303] [BR-WATCH] [S1] phase=thunder_sharma_sent layout_source=assignment elapsed=360.1s rx_idle=0.1s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=71910 wrong_source=0 undecodable=36190 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1577 opaque103=0 opaque107=52 opaque139=0 opaque256=0 opaque393=0
+[20:17:43.532] [BR-WATCH] [S3] phase=thunder_sharma_sent layout_source=assignment elapsed=360.2s rx_idle=0.1s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=89923 wrong_source=0 undecodable=33829 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1211 opaque103=0 opaque107=57 opaque139=0 opaque256=0 opaque393=0
+[MOVE STATE] [M]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S1]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[MOVE STATE] [S1]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S3]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S2]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S2]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[MOVE STATE] [S3]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[MOVE STATE] [S3]: obstacle recovery attempt=2 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S1]: movement datagram sent locally; count=180 (server acceptance unknown)
+[MOVE STATE] [S3]: movement datagram sent locally; count=180 (server acceptance unknown)
+[MOVE STATE] [S2]: movement datagram sent locally; count=180 (server acceptance unknown)
+[MOVE STATE] [M]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [M]: movement datagram sent locally; count=180 (server acceptance unknown)
+[MOVE STATE] [S1]: experimental jump-shaped movement state sent; jump unconfirmed
+[20:18:13.203] [BR-WATCH] [M] phase=thunder_sharma_sent layout_source=assignment elapsed=390.1s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=85434 wrong_source=0 undecodable=35351 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=950 opaque103=0 opaque107=67 opaque139=0 opaque256=0 opaque393=0
+[20:18:13.212] [BR-WATCH] [S2] phase=thunder_sharma_sent layout_source=assignment elapsed=390.1s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=89512 wrong_source=0 undecodable=37966 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=953 opaque103=0 opaque107=63 opaque139=0 opaque256=0 opaque393=0
+[20:18:13.331] [BR-WATCH] [S1] phase=thunder_sharma_sent layout_source=assignment elapsed=390.1s rx_idle=0.0s self_age=0.2s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=80231 wrong_source=0 undecodable=39366 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1627 opaque103=0 opaque107=56 opaque139=0 opaque256=0 opaque393=0
+[20:18:13.536] [BR-WATCH] [S3] phase=thunder_sharma_sent layout_source=assignment elapsed=390.2s rx_idle=0.0s self_age=0.2s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=95954 wrong_source=0 undecodable=36987 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1261 opaque103=0 opaque107=61 opaque139=0 opaque256=0 opaque393=0
+[MOVE STATE] [S3]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S2]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [M]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [M]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[MOVE STATE] [S1]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S1]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[20:18:43.216] [BR-WATCH] [S2] phase=thunder_sharma_sent layout_source=assignment elapsed=420.1s rx_idle=0.0s self_age=0.0s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=94716 wrong_source=0 undecodable=41129 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1003 opaque103=0 opaque107=69 opaque139=0 opaque256=0 opaque393=0
+[20:18:43.218] [BR-WATCH] [M] phase=thunder_sharma_sent layout_source=assignment elapsed=420.1s rx_idle=0.0s self_age=0.0s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=90825 wrong_source=0 undecodable=38536 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1000 opaque103=0 opaque107=73 opaque139=0 opaque256=0 opaque393=0
+[20:18:43.380] [BR-WATCH] [S1] phase=thunder_sharma_sent layout_source=assignment elapsed=420.1s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=85586 wrong_source=0 undecodable=42544 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1677 opaque103=0 opaque107=63 opaque139=0 opaque256=0 opaque393=0
+[MOVE STATE] [S3]: experimental jump-shaped movement state sent; jump unconfirmed
+[20:18:43.536] [BR-WATCH] [S3] phase=thunder_sharma_sent layout_source=assignment elapsed=420.2s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=101053 wrong_source=0 undecodable=40183 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1311 opaque103=0 opaque107=67 opaque139=0 opaque256=0 opaque393=0
+[MOVE STATE] [S2]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [M]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[MOVE STATE] [S3]: movement datagram sent locally; count=210 (server acceptance unknown)
+[MOVE STATE] [S1]: movement datagram sent locally; count=210 (server acceptance unknown)
+[MOVE STATE] [S2]: movement datagram sent locally; count=210 (server acceptance unknown)
+[MOVE STATE] [M]: movement datagram sent locally; count=210 (server acceptance unknown)
+[MOVE STATE] [M]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S3]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[MOVE STATE] [S3]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S1]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S2]: experimental jump-shaped movement state sent; jump unconfirmed
+[20:19:13.220] [BR-WATCH] [M] phase=thunder_sharma_sent layout_source=assignment elapsed=450.1s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=96636 wrong_source=0 undecodable=41677 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1050 opaque103=0 opaque107=79 opaque139=0 opaque256=0 opaque393=0
+[20:19:13.225] [BR-WATCH] [S2] phase=thunder_sharma_sent layout_source=assignment elapsed=450.1s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=99584 wrong_source=0 undecodable=44289 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1053 opaque103=0 opaque107=73 opaque139=0 opaque256=0 opaque393=0
+[20:19:13.387] [BR-WATCH] [S1] phase=thunder_sharma_sent layout_source=assignment elapsed=450.1s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=91860 wrong_source=0 undecodable=45704 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1727 opaque103=0 opaque107=73 opaque139=0 opaque256=0 opaque393=0
+[20:19:13.544] [BR-WATCH] [S3] phase=thunder_sharma_sent layout_source=assignment elapsed=450.2s rx_idle=0.1s self_age=0.2s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=105868 wrong_source=0 undecodable=43343 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1361 opaque103=0 opaque107=77 opaque139=0 opaque256=0 opaque393=0
+[MOVE STATE] [S3]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[MOVE STATE] [M]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [M]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[MOVE STATE] [S1]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[MOVE STATE] [S3]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S1]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S2]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[MOVE STATE] [S2]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S3]: movement datagram sent locally; count=240 (server acceptance unknown)
+[MOVE STATE] [M]: movement datagram sent locally; count=240 (server acceptance unknown)
+[MOVE STATE] [S1]: movement datagram sent locally; count=240 (server acceptance unknown)
+[MOVE STATE] [S2]: movement datagram sent locally; count=240 (server acceptance unknown)
+[20:19:43.227] [BR-WATCH] [M] phase=thunder_sharma_sent layout_source=assignment elapsed=480.1s rx_idle=0.0s self_age=0.2s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=102055 wrong_source=0 undecodable=44858 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1100 opaque103=0 opaque107=96 opaque139=0 opaque256=0 opaque393=0
+[20:19:43.242] [BR-WATCH] [S2] phase=thunder_sharma_sent layout_source=assignment elapsed=480.1s rx_idle=0.0s self_age=0.0s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=104675 wrong_source=0 undecodable=47470 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1103 opaque103=0 opaque107=81 opaque139=0 opaque256=0 opaque393=0
+[20:19:43.388] [BR-WATCH] [S1] phase=thunder_sharma_sent layout_source=assignment elapsed=480.1s rx_idle=0.0s self_age=0.2s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=97625 wrong_source=0 undecodable=48900 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1777 opaque103=0 opaque107=87 opaque139=0 opaque256=0 opaque393=0
+[20:19:43.544] [BR-WATCH] [S3] phase=thunder_sharma_sent layout_source=assignment elapsed=480.2s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=111503 wrong_source=0 undecodable=46522 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1411 opaque103=0 opaque107=91 opaque139=0 opaque256=0 opaque393=0
+[MOVE STATE] [S2]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[MOVE STATE] [S3]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[MOVE STATE] [M]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S1]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[MOVE STATE] [S1]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S3]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S2]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S2]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[20:20:13.253] [BR-WATCH] [M] phase=thunder_sharma_sent layout_source=assignment elapsed=510.1s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=108230 wrong_source=0 undecodable=48061 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1150 opaque103=0 opaque107=110 opaque139=1 opaque256=2 opaque393=0
+[20:20:13.263] [BR-WATCH] [S2] phase=thunder_sharma_sent layout_source=assignment elapsed=510.2s rx_idle=0.1s self_age=0.2s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=110932 wrong_source=0 undecodable=50625 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1152 opaque103=0 opaque107=95 opaque139=1 opaque256=2 opaque393=0
+[20:20:14.393] [BR-WATCH] [S1] phase=thunder_sharma_sent layout_source=assignment elapsed=511.2s rx_idle=1.1s self_age=1.3s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=102652 wrong_source=0 undecodable=52095 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1827 opaque103=0 opaque107=101 opaque139=1 opaque256=2 opaque393=0
+[20:20:14.397] [BR-WATCH] [S3] phase=thunder_sharma_sent layout_source=assignment elapsed=511.0s rx_idle=1.1s self_age=1.2s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=116080 wrong_source=0 undecodable=49714 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1461 opaque103=0 opaque107=105 opaque139=1 opaque256=2 opaque393=0
+[MOVE STATE] [S2]: paused: self-state age=5.0s
+[MOVE STATE] [S2]: send blocked: stale=True position=True slot_fields=True
+[MOVE STATE] [M]: paused: self-state age=5.0s
+[MOVE STATE] [S1]: paused: self-state age=5.0s
+[MOVE STATE] [S3]: paused: self-state age=5.1s
+[MOVE STATE] [S3]: send blocked: stale=True position=True slot_fields=True
+[MOVE STATE] [M]: send blocked: stale=True position=True slot_fields=True
+[MOVE STATE] [S1]: send blocked: stale=True position=True slot_fields=True
+[MOVE STATE] [S2]: planner reset after 10.1s without position; waiting for fresh state
+[MOVE STATE] [M]: planner reset after 10.0s without position; waiting for fresh state
+[MOVE STATE] [S1]: planner reset after 10.0s without position; waiting for fresh state
+[MOVE STATE] [S3]: planner reset after 10.1s without position; waiting for fresh state
+[MOVE STATE] [S2]: send blocked: stale=True position=True slot_fields=True
+[MOVE STATE] [S3]: send blocked: stale=True position=True slot_fields=True
+[MOVE STATE] [M]: send blocked: stale=True position=True slot_fields=True
+[MOVE STATE] [S1]: send blocked: stale=True position=True slot_fields=True
+[20:20:43.256] [BR-WATCH] [M] phase=thunder_sharma_sent layout_source=assignment elapsed=540.1s rx_idle=0.0s self_age=28.6s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=115430 wrong_source=0 undecodable=51106 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1200 opaque103=1 opaque107=119 opaque139=1 opaque256=3 opaque393=0
+[20:20:43.263] [BR-WATCH] [S2] phase=thunder_sharma_sent layout_source=assignment elapsed=540.2s rx_idle=0.0s self_age=30.2s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=116077 wrong_source=0 undecodable=53632 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1202 opaque103=0 opaque107=104 opaque139=1 opaque256=3 opaque393=0
+[20:20:44.396] [BR-WATCH] [S1] phase=thunder_sharma_sent layout_source=assignment elapsed=541.2s rx_idle=0.0s self_age=29.8s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=108447 wrong_source=0 undecodable=55264 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1877 opaque103=1 opaque107=110 opaque139=1 opaque256=3 opaque393=0
+[20:20:44.418] [BR-WATCH] [S3] phase=thunder_sharma_sent layout_source=assignment elapsed=541.1s rx_idle=1.1s self_age=29.8s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=121844 wrong_source=0 undecodable=52884 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1511 opaque103=1 opaque107=115 opaque139=1 opaque256=3 opaque393=0
+[20:20:46.436] [BR-WATCH] [S3] phase=thunder_sharma_sent reason=udp_disconnect layout_source=assignment elapsed=543.1s rx_idle=0.0s self_age=31.8s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=1/4 rx=122047 wrong_source=0 undecodable=53084 bad_crc=0 end103=0 disconnect4=1 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1511 opaque103=1 opaque107=117 opaque139=1 opaque256=3 opaque393=0
+[20:20:46.438] [UDP [S3]] ended reason=udp_disconnect phase=thunder_sharma_sent startup_sent=True match_state=True hello_sends=1 ack_retries=0 received=122047 wrong_source=0 undecodable=53084 bad_crc=0
+[MOVE STATE] [S2]: paused: self-state age=35.1s
+[MOVE STATE] [S2]: send blocked: stale=True position=True slot_fields=True
+[MOVE STATE] [S1]: paused: self-state age=35.1s
+[MOVE STATE] [M]: paused: self-state age=35.1s
+[MOVE STATE] [S1]: send blocked: stale=True position=True slot_fields=True
+[MOVE STATE] [M]: send blocked: stale=True position=True slot_fields=True
+[MOVE STATE] [S2]: send blocked: stale=True position=True slot_fields=True
+[MOVE STATE] [S1]: send blocked: stale=True position=True slot_fields=True
+[MOVE STATE] [M]: send blocked: stale=True position=True slot_fields=True
+[20:21:08.321] [BR-WATCH] [M] phase=thunder_sharma_sent reason=udp_disconnect layout_source=assignment elapsed=565.2s rx_idle=0.0s self_age=53.7s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=2/4 rx=120166 wrong_source=0 undecodable=53615 bad_crc=0 end103=0 disconnect4=1 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1250 opaque103=1 opaque107=122 opaque139=1 opaque256=3 opaque393=0
+[20:21:08.322] [UDP [M]] ended reason=udp_disconnect phase=thunder_sharma_sent startup_sent=True match_state=True hello_sends=1 ack_retries=0 received=120166 wrong_source=0 undecodable=53615 bad_crc=0
+[20:21:08.324] [BR-WATCH] [S1] phase=thunder_sharma_sent reason=udp_disconnect layout_source=assignment elapsed=565.1s rx_idle=0.0s self_age=53.7s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=3/4 rx=113844 wrong_source=0 undecodable=57658 bad_crc=0 end103=0 disconnect4=1 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1927 opaque103=1 opaque107=115 opaque139=1 opaque256=3 opaque393=0
+[20:21:08.324] [UDP [S1]] ended reason=udp_disconnect phase=thunder_sharma_sent startup_sent=True match_state=True hello_sends=1 ack_retries=0 received=113844 wrong_source=0 undecodable=57658 bad_crc=0
+[20:21:08.331] [BR-WATCH] [S2] phase=thunder_sharma_sent reason=udp_disconnect layout_source=assignment elapsed=565.2s rx_idle=0.0s self_age=55.2s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=4/4 rx=121051 wrong_source=0 undecodable=56130 bad_crc=0 end103=0 disconnect4=1 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1252 opaque103=0 opaque107=111 opaque139=1 opaque256=3 opaque393=0
+[20:21:08.331] [UDP [S2]] ended reason=udp_disconnect phase=thunder_sharma_sent startup_sent=True match_state=True hello_sends=1 ack_retries=0 received=121051 wrong_source=0 undecodable=56130 bad_crc=0
+[20:21:08.482] [BR] local sessions ended; server match end remains unconfirmed
+[20:21:08.486] [BR TIMER] Attempt b42f0f329f6a: local attempt finished; its fallback is stopped.
+[20:21:10.983] Tcp Connected => sandeep_zd31
+[20:21:11.017] Tcp Connected => sandeep_8qpx
+[20:21:11.117] Tcp Connected => sandeep_y6vo
+[20:21:11.322] Tcp Connected => sandeep_ca25
+[20:21:27.739] [BR TIMER] Attempt 37fa7e65bcec: all 4 BR assignments received; 690-second end-confirmation fallback started.
+[20:21:28.240] [UDP [S2]] hello sent; waiting for server response
+[20:21:28.307] [UDP [M]] hello sent; waiting for server response
+[20:21:28.337] [UDP [S1]] hello sent; waiting for server response
+[20:21:28.389] [UDP [S3]] hello sent; waiting for server response
+[20:21:28.603] [UDP [M]] startup packets sent; awaiting match state
+[20:21:28.612] [UDP [S2]] startup packets sent; awaiting match state
+[20:21:28.676] [UDP [S1]] startup packets sent; awaiting match state
+[20:21:28.760] [UDP [S3]] startup packets sent; awaiting match state
+[20:21:58.262] [BR-WATCH] [S2] phase=thunder_sharma_sent layout_source=assignment elapsed=30.0s rx_idle=0.0s self_age=none started=1 state_seen=1 self_id=0 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=5784 wrong_source=0 undecodable=2667 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=351 opaque103=0 opaque107=0 opaque139=0 opaque256=0 opaque393=0
+[20:21:58.346] [BR-WATCH] [M] phase=thunder_sharma_sent layout_source=assignment elapsed=30.0s rx_idle=0.0s self_age=none started=1 state_seen=1 self_id=0 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=6018 wrong_source=0 undecodable=3557 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=336 opaque103=0 opaque107=0 opaque139=0 opaque256=0 opaque393=0
+[20:21:58.359] [BR-WATCH] [S1] phase=thunder_sharma_sent layout_source=assignment elapsed=30.0s rx_idle=0.0s self_age=none started=1 state_seen=1 self_id=0 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=5374 wrong_source=0 undecodable=2640 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=351 opaque103=0 opaque107=0 opaque139=0 opaque256=0 opaque393=0
+[20:21:58.391] [BR-WATCH] [S3] phase=thunder_sharma_sent layout_source=assignment elapsed=30.0s rx_idle=0.0s self_age=none started=1 state_seen=1 self_id=0 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=5792 wrong_source=0 undecodable=2633 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=351 opaque103=0 opaque107=0 opaque139=0 opaque256=0 opaque393=0
+[MOVE STATE] [S2]: waiting position/assignment gate 69992ms
+[MOVE STATE] [S1]: waiting position/assignment gate 70000ms
+[MOVE STATE] [S3]: waiting position/assignment gate 69998ms
+[MOVE STATE] [M]: waiting position/assignment gate 69983ms
+[20:22:28.273] [BR-WATCH] [S2] phase=thunder_sharma_sent layout_source=assignment elapsed=60.0s rx_idle=0.0s self_age=0.2s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=13368 wrong_source=0 undecodable=6290 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=401 opaque103=0 opaque107=0 opaque139=0 opaque256=0 opaque393=0
+[20:22:28.350] [BR-WATCH] [M] phase=thunder_sharma_sent layout_source=assignment elapsed=60.0s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=13599 wrong_source=0 undecodable=7183 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=401 opaque103=0 opaque107=0 opaque139=0 opaque256=0 opaque393=0
+[20:22:28.361] [BR-WATCH] [S1] phase=thunder_sharma_sent layout_source=assignment elapsed=60.0s rx_idle=0.0s self_age=0.0s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=14015 wrong_source=0 undecodable=6235 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=401 opaque103=0 opaque107=0 opaque139=0 opaque256=0 opaque393=0
+[20:22:28.421] [BR-WATCH] [S3] phase=thunder_sharma_sent layout_source=assignment elapsed=60.0s rx_idle=0.0s self_age=0.0s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=14575 wrong_source=0 undecodable=6249 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=401 opaque103=0 opaque107=0 opaque139=0 opaque256=0 opaque393=0
+[20:22:58.274] [BR-WATCH] [S2] phase=thunder_sharma_sent layout_source=assignment elapsed=90.0s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=21497 wrong_source=0 undecodable=9029 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=451 opaque103=0 opaque107=0 opaque139=0 opaque256=0 opaque393=0
+[20:22:58.351] [BR-WATCH] [M] phase=thunder_sharma_sent layout_source=assignment elapsed=90.0s rx_idle=0.0s self_age=0.2s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=22236 wrong_source=0 undecodable=10196 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=450 opaque103=0 opaque107=0 opaque139=0 opaque256=0 opaque393=0
+[20:22:58.379] [BR-WATCH] [S1] phase=thunder_sharma_sent layout_source=assignment elapsed=90.0s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=20575 wrong_source=0 undecodable=8965 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=451 opaque103=0 opaque107=0 opaque139=0 opaque256=0 opaque393=0
+[20:22:58.425] [BR-WATCH] [S3] phase=thunder_sharma_sent layout_source=assignment elapsed=90.0s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=19061 wrong_source=0 undecodable=9248 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=697 opaque103=0 opaque107=0 opaque139=0 opaque256=0 opaque393=0
+[MOVE STATE] [M]: movement datagram sent locally; count=1 (server acceptance unknown)
+[MOVE STATE] [S1]: movement datagram sent locally; count=1 (server acceptance unknown)
+[MOVE STATE] [S3]: movement datagram sent locally; count=1 (server acceptance unknown)
+[MOVE STATE] [S2]: movement datagram sent locally; count=1 (server acceptance unknown)
+[MOVE STATE] [M]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[20:23:28.284] [BR-WATCH] [S2] phase=thunder_sharma_sent layout_source=assignment elapsed=120.0s rx_idle=0.0s self_age=0.2s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=28612 wrong_source=0 undecodable=10637 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=501 opaque103=0 opaque107=0 opaque139=0 opaque256=0 opaque393=0
+[20:23:28.353] [BR-WATCH] [M] phase=thunder_sharma_sent layout_source=assignment elapsed=120.0s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=27085 wrong_source=0 undecodable=12127 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=500 opaque103=0 opaque107=0 opaque139=0 opaque256=0 opaque393=0
+[20:23:28.383] [BR-WATCH] [S1] phase=thunder_sharma_sent layout_source=assignment elapsed=120.0s rx_idle=0.0s self_age=0.0s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=26877 wrong_source=0 undecodable=10566 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=501 opaque103=0 opaque107=0 opaque139=0 opaque256=0 opaque393=0
+[20:23:28.432] [BR-WATCH] [S3] phase=thunder_sharma_sent layout_source=assignment elapsed=120.0s rx_idle=0.0s self_age=0.0s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=26344 wrong_source=0 undecodable=12302 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=797 opaque103=0 opaque107=0 opaque139=0 opaque256=0 opaque393=0
+[MOVE STATE] [M]: obstacle recovery attempt=2 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [M]: obstacle recovery attempt=3 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S3]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S1]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [M]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S2]: experimental jump-shaped movement state sent; jump unconfirmed
+[20:23:58.294] [BR-WATCH] [S2] phase=thunder_sharma_sent layout_source=assignment elapsed=150.1s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=39466 wrong_source=0 undecodable=13537 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=551 opaque103=0 opaque107=7 opaque139=0 opaque256=0 opaque393=0
+[20:23:58.357] [BR-WATCH] [M] phase=thunder_sharma_sent layout_source=assignment elapsed=150.0s rx_idle=0.0s self_age=0.0s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=33430 wrong_source=0 undecodable=15198 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=550 opaque103=0 opaque107=7 opaque139=0 opaque256=0 opaque393=0
+[20:23:58.393] [BR-WATCH] [S1] phase=thunder_sharma_sent layout_source=assignment elapsed=150.1s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=36573 wrong_source=0 undecodable=13453 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=551 opaque103=0 opaque107=8 opaque139=0 opaque256=0 opaque393=0
+[20:23:58.432] [BR-WATCH] [S3] phase=thunder_sharma_sent layout_source=assignment elapsed=150.0s rx_idle=0.0s self_age=0.2s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=35333 wrong_source=0 undecodable=15584 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=847 opaque103=0 opaque107=2 opaque139=0 opaque256=0 opaque393=0
+[MOVE STATE] [S2]: movement datagram sent locally; count=30 (server acceptance unknown)
+[MOVE STATE] [M]: movement datagram sent locally; count=30 (server acceptance unknown)
+[MOVE STATE] [S1]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S3]: movement datagram sent locally; count=30 (server acceptance unknown)
+[MOVE STATE] [S1]: movement datagram sent locally; count=30 (server acceptance unknown)
+[MOVE STATE] [S3]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[MOVE STATE] [S3]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [M]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S2]: experimental jump-shaped movement state sent; jump unconfirmed
+[20:24:28.319] [BR-WATCH] [S2] phase=thunder_sharma_sent layout_source=assignment elapsed=180.1s rx_idle=0.0s self_age=0.2s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=51295 wrong_source=0 undecodable=16885 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=601 opaque103=0 opaque107=21 opaque139=0 opaque256=0 opaque393=0
+[20:24:28.358] [BR-WATCH] [M] phase=thunder_sharma_sent layout_source=assignment elapsed=180.1s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=41236 wrong_source=0 undecodable=18579 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=600 opaque103=0 opaque107=19 opaque139=0 opaque256=0 opaque393=0
+[20:24:28.395] [BR-WATCH] [S1] phase=thunder_sharma_sent layout_source=assignment elapsed=180.1s rx_idle=0.0s self_age=0.0s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=46847 wrong_source=0 undecodable=16789 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=601 opaque103=0 opaque107=21 opaque139=0 opaque256=0 opaque393=0
+[20:24:28.434] [BR-WATCH] [S3] phase=thunder_sharma_sent layout_source=assignment elapsed=180.0s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=43861 wrong_source=0 undecodable=18937 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=897 opaque103=0 opaque107=8 opaque139=0 opaque256=0 opaque393=0
+[MOVE STATE] [S1]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [M]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S3]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S2]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S2]: movement datagram sent locally; count=60 (server acceptance unknown)
+[MOVE STATE] [M]: movement datagram sent locally; count=60 (server acceptance unknown)
+[MOVE STATE] [S3]: movement datagram sent locally; count=60 (server acceptance unknown)
+[MOVE STATE] [S1]: movement datagram sent locally; count=60 (server acceptance unknown)
+[20:24:58.333] [BR-WATCH] [S2] phase=thunder_sharma_sent layout_source=assignment elapsed=210.1s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=66473 wrong_source=0 undecodable=20264 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=651 opaque103=0 opaque107=33 opaque139=0 opaque256=0 opaque393=0
+[20:24:58.358] [BR-WATCH] [M] phase=thunder_sharma_sent layout_source=assignment elapsed=210.1s rx_idle=0.0s self_age=0.0s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=51688 wrong_source=0 undecodable=21968 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=650 opaque103=0 opaque107=29 opaque139=0 opaque256=0 opaque393=0
+[20:24:58.433] [BR-WATCH] [S1] phase=thunder_sharma_sent layout_source=assignment elapsed=210.1s rx_idle=0.1s self_age=0.2s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=58718 wrong_source=0 undecodable=20154 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=651 opaque103=0 opaque107=34 opaque139=0 opaque256=0 opaque393=0
+[20:24:58.457] [BR-WATCH] [S3] phase=thunder_sharma_sent layout_source=assignment elapsed=210.1s rx_idle=0.0s self_age=0.2s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=54933 wrong_source=0 undecodable=22333 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=947 opaque103=0 opaque107=26 opaque139=0 opaque256=0 opaque393=0
+[MOVE STATE] [S1]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[MOVE STATE] [S1]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [M]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S3]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S2]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S3]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[MOVE STATE] [M]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[MOVE STATE] [S1]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S1]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[MOVE STATE] [M]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[20:25:28.345] [BR-WATCH] [S2] phase=thunder_sharma_sent layout_source=assignment elapsed=240.1s rx_idle=0.0s self_age=0.0s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=80003 wrong_source=0 undecodable=23572 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=701 opaque103=0 opaque107=45 opaque139=0 opaque256=0 opaque393=0
+[20:25:28.358] [BR-WATCH] [M] phase=thunder_sharma_sent layout_source=assignment elapsed=240.1s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=60087 wrong_source=0 undecodable=25312 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=700 opaque103=0 opaque107=41 opaque139=0 opaque256=0 opaque393=0
+[20:25:28.434] [BR-WATCH] [S1] phase=thunder_sharma_sent layout_source=assignment elapsed=240.1s rx_idle=0.1s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=68680 wrong_source=0 undecodable=23503 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=701 opaque103=0 opaque107=46 opaque139=0 opaque256=0 opaque393=0
+[20:25:28.470] [BR-WATCH] [S3] phase=thunder_sharma_sent layout_source=assignment elapsed=240.1s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=62450 wrong_source=0 undecodable=25709 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=997 opaque103=0 opaque107=38 opaque139=0 opaque256=0 opaque393=0
+[MOVE STATE] [M]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S3]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[MOVE STATE] [S2]: movement datagram sent locally; count=90 (server acceptance unknown)
+[MOVE STATE] [M]: movement datagram sent locally; count=90 (server acceptance unknown)
+[MOVE STATE] [S1]: movement datagram sent locally; count=90 (server acceptance unknown)
+[MOVE STATE] [S3]: movement datagram sent locally; count=90 (server acceptance unknown)
+[MOVE STATE] [S1]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S3]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S2]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S1]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[MOVE STATE] [M]: experimental jump-shaped movement state sent; jump unconfirmed
+[20:25:58.345] [BR-WATCH] [S2] phase=thunder_sharma_sent layout_source=assignment elapsed=270.1s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=92653 wrong_source=0 undecodable=26903 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=751 opaque103=0 opaque107=78 opaque139=0 opaque256=0 opaque393=0
+[20:25:58.359] [BR-WATCH] [M] phase=thunder_sharma_sent layout_source=assignment elapsed=270.1s rx_idle=0.0s self_age=0.0s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=67348 wrong_source=0 undecodable=28666 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=750 opaque103=0 opaque107=51 opaque139=0 opaque256=0 opaque393=0
+[MOVE STATE] [S1]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[MOVE STATE] [S3]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[20:25:58.482] [BR-WATCH] [S1] phase=thunder_sharma_sent layout_source=assignment elapsed=270.1s rx_idle=0.0s self_age=0.0s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=74526 wrong_source=0 undecodable=26892 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=751 opaque103=0 opaque107=81 opaque139=0 opaque256=0 opaque393=0
+[20:25:58.494] [BR-WATCH] [S3] phase=thunder_sharma_sent layout_source=assignment elapsed=270.1s rx_idle=0.0s self_age=0.0s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=70143 wrong_source=0 undecodable=29074 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1047 opaque103=0 opaque107=49 opaque139=0 opaque256=0 opaque393=0
+[MOVE STATE] [S3]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[MOVE STATE] [M]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[MOVE STATE] [S1]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S3]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [M]: obstacle recovery attempt=2 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S2]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [M]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [M]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[MOVE STATE] [S3]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[MOVE STATE] [S1]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[MOVE STATE] [S2]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[MOVE STATE] [S2]: movement datagram sent locally; count=120 (server acceptance unknown)
+[MOVE STATE] [S1]: movement datagram sent locally; count=120 (server acceptance unknown)
+[MOVE STATE] [S3]: movement datagram sent locally; count=120 (server acceptance unknown)
+[MOVE STATE] [M]: movement datagram sent locally; count=120 (server acceptance unknown)
+[20:26:28.360] [BR-WATCH] [M] phase=thunder_sharma_sent layout_source=assignment elapsed=300.1s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=73009 wrong_source=0 undecodable=31942 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=800 opaque103=0 opaque107=75 opaque139=0 opaque256=0 opaque393=0
+[20:26:28.363] [BR-WATCH] [S2] phase=thunder_sharma_sent layout_source=assignment elapsed=300.1s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=104927 wrong_source=0 undecodable=30129 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=801 opaque103=0 opaque107=102 opaque139=0 opaque256=0 opaque393=0
+[20:26:28.485] [BR-WATCH] [S1] phase=thunder_sharma_sent layout_source=assignment elapsed=300.1s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=79729 wrong_source=0 undecodable=30162 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=801 opaque103=0 opaque107=104 opaque139=0 opaque256=0 opaque393=0
+[20:26:28.525] [BR-WATCH] [S3] phase=thunder_sharma_sent layout_source=assignment elapsed=300.1s rx_idle=0.0s self_age=0.2s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=75883 wrong_source=0 undecodable=32346 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1097 opaque103=0 opaque107=76 opaque139=0 opaque256=0 opaque393=0
+[MOVE STATE] [S1]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S3]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S2]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S1]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[MOVE STATE] [M]: experimental jump-shaped movement state sent; jump unconfirmed
+[20:26:58.364] [BR-WATCH] [M] phase=thunder_sharma_sent layout_source=assignment elapsed=330.1s rx_idle=0.0s self_age=0.0s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=77727 wrong_source=0 undecodable=35171 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=850 opaque103=0 opaque107=97 opaque139=0 opaque256=0 opaque393=0
+[20:26:58.373] [BR-WATCH] [S2] phase=thunder_sharma_sent layout_source=assignment elapsed=330.1s rx_idle=0.0s self_age=0.2s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=112747 wrong_source=0 undecodable=33366 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=851 opaque103=0 opaque107=117 opaque139=0 opaque256=0 opaque393=0
+[20:26:58.504] [BR-WATCH] [S1] phase=thunder_sharma_sent layout_source=assignment elapsed=330.2s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=85415 wrong_source=0 undecodable=33413 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=851 opaque103=0 opaque107=118 opaque139=0 opaque256=0 opaque393=0
+[20:26:58.528] [BR-WATCH] [S3] phase=thunder_sharma_sent layout_source=assignment elapsed=330.1s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=80861 wrong_source=0 undecodable=35627 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1147 opaque103=0 opaque107=103 opaque139=0 opaque256=0 opaque393=0
+[MOVE STATE] [S2]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S1]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S3]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S3]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[MOVE STATE] [S2]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[MOVE STATE] [S1]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[MOVE STATE] [M]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S2]: movement datagram sent locally; count=150 (server acceptance unknown)
+[MOVE STATE] [S1]: movement datagram sent locally; count=150 (server acceptance unknown)
+[MOVE STATE] [S3]: movement datagram sent locally; count=150 (server acceptance unknown)
+[MOVE STATE] [M]: movement datagram sent locally; count=150 (server acceptance unknown)
+[MOVE STATE] [S2]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[MOVE STATE] [S1]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[MOVE STATE] [S3]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S2]: experimental jump-shaped movement state sent; jump unconfirmed
+[20:27:28.384] [BR-WATCH] [S2] phase=thunder_sharma_sent layout_source=assignment elapsed=360.1s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=119870 wrong_source=0 undecodable=36596 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=901 opaque103=0 opaque107=138 opaque139=0 opaque256=0 opaque393=0
+[20:27:28.411] [BR-WATCH] [M] phase=thunder_sharma_sent layout_source=assignment elapsed=360.1s rx_idle=0.0s self_age=0.2s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=82299 wrong_source=0 undecodable=38451 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=899 opaque103=0 opaque107=116 opaque139=0 opaque256=0 opaque393=0
+[20:27:28.519] [BR-WATCH] [S1] phase=thunder_sharma_sent layout_source=assignment elapsed=360.2s rx_idle=0.0s self_age=0.2s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=89824 wrong_source=0 undecodable=36697 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=901 opaque103=0 opaque107=137 opaque139=0 opaque256=0 opaque393=0
+[20:27:28.536] [BR-WATCH] [S3] phase=thunder_sharma_sent layout_source=assignment elapsed=360.1s rx_idle=0.0s self_age=0.2s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=86102 wrong_source=0 undecodable=38915 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1197 opaque103=0 opaque107=117 opaque139=0 opaque256=0 opaque393=0
+[MOVE STATE] [M]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S1]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S1]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[MOVE STATE] [S3]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[MOVE STATE] [S3]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S2]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [M]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S2]: movement datagram sent locally; count=180 (server acceptance unknown)
+[MOVE STATE] [S3]: movement datagram sent locally; count=180 (server acceptance unknown)
+[MOVE STATE] [S1]: movement datagram sent locally; count=180 (server acceptance unknown)
+[MOVE STATE] [M]: movement datagram sent locally; count=180 (server acceptance unknown)
+[20:27:58.385] [BR-WATCH] [S2] phase=thunder_sharma_sent layout_source=assignment elapsed=390.1s rx_idle=0.0s self_age=0.2s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=126399 wrong_source=0 undecodable=39849 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=951 opaque103=0 opaque107=155 opaque139=0 opaque256=0 opaque393=0
+[20:27:58.418] [BR-WATCH] [M] phase=thunder_sharma_sent layout_source=assignment elapsed=390.1s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=87037 wrong_source=0 undecodable=41768 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=949 opaque103=0 opaque107=130 opaque139=0 opaque256=0 opaque393=0
+[20:27:58.538] [BR-WATCH] [S3] phase=thunder_sharma_sent layout_source=assignment elapsed=390.1s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=91025 wrong_source=0 undecodable=42199 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1247 opaque103=0 opaque107=134 opaque139=0 opaque256=0 opaque393=0
+[20:27:58.558] [BR-WATCH] [S1] phase=thunder_sharma_sent layout_source=assignment elapsed=390.2s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=95234 wrong_source=0 undecodable=39995 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=951 opaque103=0 opaque107=154 opaque139=0 opaque256=0 opaque393=0
+[MOVE STATE] [S1]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S3]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S1]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[MOVE STATE] [S3]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[MOVE STATE] [S2]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S1]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [M]: experimental jump-shaped movement state sent; jump unconfirmed
+[20:28:28.389] [BR-WATCH] [S2] phase=thunder_sharma_sent layout_source=assignment elapsed=420.1s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=133857 wrong_source=0 undecodable=43057 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1001 opaque103=0 opaque107=176 opaque139=0 opaque256=0 opaque393=0
+[20:28:28.420] [BR-WATCH] [M] phase=thunder_sharma_sent layout_source=assignment elapsed=420.1s rx_idle=0.0s self_age=0.0s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=92297 wrong_source=0 undecodable=45037 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=999 opaque103=0 opaque107=143 opaque139=0 opaque256=0 opaque393=0
+[20:28:28.542] [BR-WATCH] [S3] phase=thunder_sharma_sent layout_source=assignment elapsed=420.2s rx_idle=0.0s self_age=0.2s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=96110 wrong_source=0 undecodable=45446 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1297 opaque103=0 opaque107=154 opaque139=0 opaque256=0 opaque393=0
+[20:28:28.569] [BR-WATCH] [S1] phase=thunder_sharma_sent layout_source=assignment elapsed=420.2s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=100027 wrong_source=0 undecodable=43253 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1001 opaque103=0 opaque107=171 opaque139=0 opaque256=0 opaque393=0
+[MOVE STATE] [S3]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S2]: movement datagram sent locally; count=210 (server acceptance unknown)
+[MOVE STATE] [M]: movement datagram sent locally; count=210 (server acceptance unknown)
+[MOVE STATE] [S3]: movement datagram sent locally; count=210 (server acceptance unknown)
+[MOVE STATE] [S1]: movement datagram sent locally; count=210 (server acceptance unknown)
+[MOVE STATE] [M]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S2]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S1]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [M]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[20:28:58.410] [BR-WATCH] [S2] phase=thunder_sharma_sent layout_source=assignment elapsed=450.2s rx_idle=0.0s self_age=0.0s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=141020 wrong_source=0 undecodable=46339 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1051 opaque103=0 opaque107=196 opaque139=0 opaque256=0 opaque393=0
+[20:28:58.421] [BR-WATCH] [M] phase=thunder_sharma_sent layout_source=assignment elapsed=450.1s rx_idle=0.1s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=97158 wrong_source=0 undecodable=48315 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1049 opaque103=0 opaque107=159 opaque139=0 opaque256=0 opaque393=0
+[20:28:58.556] [BR-WATCH] [S3] phase=thunder_sharma_sent layout_source=assignment elapsed=450.2s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=102305 wrong_source=0 undecodable=48724 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1347 opaque103=0 opaque107=170 opaque139=0 opaque256=0 opaque393=0
+[20:28:58.572] [BR-WATCH] [S1] phase=thunder_sharma_sent layout_source=assignment elapsed=450.2s rx_idle=0.0s self_age=0.2s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=106149 wrong_source=0 undecodable=46522 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1051 opaque103=0 opaque107=189 opaque139=0 opaque256=0 opaque393=0
+[MOVE STATE] [S3]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [M]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S1]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[MOVE STATE] [S1]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S1]: obstacle recovery attempt=2 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S2]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S3]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S1]: obstacle recovery attempt=3 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S3]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[MOVE STATE] [S2]: movement datagram sent locally; count=240 (server acceptance unknown)
+[MOVE STATE] [S2]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[MOVE STATE] [M]: movement datagram sent locally; count=240 (server acceptance unknown)
+[MOVE STATE] [S3]: movement datagram sent locally; count=240 (server acceptance unknown)
+[MOVE STATE] [S1]: movement datagram sent locally; count=240 (server acceptance unknown)
+[20:29:28.426] [BR-WATCH] [S2] phase=thunder_sharma_sent layout_source=assignment elapsed=480.2s rx_idle=0.0s self_age=0.2s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=147494 wrong_source=0 undecodable=49623 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1101 opaque103=0 opaque107=216 opaque139=3 opaque256=0 opaque393=0
+[20:29:28.442] [BR-WATCH] [M] phase=thunder_sharma_sent layout_source=assignment elapsed=480.1s rx_idle=0.0s self_age=0.0s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=103304 wrong_source=0 undecodable=51562 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1099 opaque103=0 opaque107=180 opaque139=3 opaque256=0 opaque393=0
+[20:29:28.572] [BR-WATCH] [S1] phase=thunder_sharma_sent layout_source=assignment elapsed=480.2s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=112360 wrong_source=0 undecodable=49838 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1101 opaque103=0 opaque107=210 opaque139=3 opaque256=0 opaque393=0
+[20:29:28.589] [BR-WATCH] [S3] phase=thunder_sharma_sent layout_source=assignment elapsed=480.2s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=108764 wrong_source=0 undecodable=52039 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1397 opaque103=0 opaque107=191 opaque139=3 opaque256=0 opaque393=0
+[MOVE STATE] [S1]: obstacle recovery attempt=4 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S3]: obstacle recovery attempt=2 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S2]: obstacle recovery attempt=2 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S1]: obstacle recovery attempt=5 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S3]: obstacle recovery attempt=3 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S2]: obstacle recovery attempt=3 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S1]: obstacle recovery attempt=6 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [M]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S3]: obstacle recovery attempt=4 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S1]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S2]: obstacle recovery attempt=4 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S1]: obstacle recovery attempt=7 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S3]: obstacle recovery attempt=5 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S2]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S2]: obstacle recovery attempt=5 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S3]: obstacle recovery attempt=6 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S2]: obstacle recovery attempt=6 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S3]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S3]: obstacle recovery attempt=7 strategy=wide-turn; no 3s horizontal progress
+[20:29:58.442] [BR-WATCH] [M] phase=thunder_sharma_sent layout_source=assignment elapsed=510.1s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=109124 wrong_source=0 undecodable=54854 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1149 opaque103=0 opaque107=201 opaque139=3 opaque256=4 opaque393=1
+[20:29:58.448] [BR-WATCH] [S2] phase=thunder_sharma_sent layout_source=assignment elapsed=510.2s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=153321 wrong_source=0 undecodable=52927 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1151 opaque103=0 opaque107=237 opaque139=3 opaque256=4 opaque393=1
+[20:29:58.572] [BR-WATCH] [S1] phase=thunder_sharma_sent layout_source=assignment elapsed=510.2s rx_idle=0.0s self_age=0.0s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=120624 wrong_source=0 undecodable=53163 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1151 opaque103=0 opaque107=232 opaque139=3 opaque256=4 opaque393=1
+[20:29:58.604] [BR-WATCH] [S3] phase=thunder_sharma_sent layout_source=assignment elapsed=510.2s rx_idle=0.0s self_age=0.0s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=114493 wrong_source=0 undecodable=55376 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1447 opaque103=0 opaque107=214 opaque139=3 opaque256=4 opaque393=1
+[MOVE STATE] [M]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S2]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S1]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S2]: movement datagram sent locally; count=270 (server acceptance unknown)
+[MOVE STATE] [M]: movement datagram sent locally; count=270 (server acceptance unknown)
+[MOVE STATE] [S1]: movement datagram sent locally; count=270 (server acceptance unknown)
+[MOVE STATE] [S3]: movement datagram sent locally; count=270 (server acceptance unknown)
+[MOVE STATE] [S3]: experimental jump-shaped movement state sent; jump unconfirmed
+[20:30:28.458] [BR-WATCH] [M] phase=thunder_sharma_sent layout_source=assignment elapsed=540.2s rx_idle=0.0s self_age=0.0s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=115087 wrong_source=0 undecodable=57874 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1199 opaque103=0 opaque107=215 opaque139=3 opaque256=4 opaque393=1
+[20:30:28.467] [BR-WATCH] [S2] phase=thunder_sharma_sent layout_source=assignment elapsed=540.2s rx_idle=0.1s self_age=0.2s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=161211 wrong_source=0 undecodable=55986 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1201 opaque103=0 opaque107=257 opaque139=3 opaque256=4 opaque393=1
+[20:30:28.578] [BR-WATCH] [S1] phase=thunder_sharma_sent layout_source=assignment elapsed=540.2s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=128114 wrong_source=0 undecodable=56213 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1201 opaque103=0 opaque107=248 opaque139=3 opaque256=4 opaque393=1
+[20:30:28.613] [BR-WATCH] [S3] phase=thunder_sharma_sent layout_source=assignment elapsed=540.2s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=121535 wrong_source=0 undecodable=58435 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1497 opaque103=0 opaque107=229 opaque139=3 opaque256=4 opaque393=1
+[MOVE STATE] [M]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S2]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S1]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S3]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [M]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S2]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S1]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[MOVE STATE] [S3]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[MOVE STATE] [S2]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[MOVE STATE] [M]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[MOVE STATE] [S2]: movement datagram sent locally; count=300 (server acceptance unknown)
+[20:30:58.459] [BR-WATCH] [M] phase=thunder_sharma_sent layout_source=assignment elapsed=570.2s rx_idle=0.3s self_age=0.3s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=120273 wrong_source=0 undecodable=60873 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1247 opaque103=0 opaque107=229 opaque139=3 opaque256=4 opaque393=1
+[20:30:58.469] [BR-WATCH] [S2] phase=thunder_sharma_sent layout_source=assignment elapsed=570.2s rx_idle=0.2s self_age=0.3s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=170044 wrong_source=0 undecodable=59027 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1251 opaque103=0 opaque107=280 opaque139=3 opaque256=4 opaque393=1
+[20:30:58.579] [BR-WATCH] [S1] phase=thunder_sharma_sent layout_source=assignment elapsed=570.2s rx_idle=0.4s self_age=0.4s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=133518 wrong_source=0 undecodable=59247 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1251 opaque103=0 opaque107=267 opaque139=3 opaque256=4 opaque393=1
+[20:30:58.618] [BR-WATCH] [S3] phase=thunder_sharma_sent layout_source=assignment elapsed=570.2s rx_idle=0.4s self_age=0.4s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=126502 wrong_source=0 undecodable=61407 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1534 opaque103=0 opaque107=247 opaque139=3 opaque256=4 opaque393=1
+[MOVE STATE] [M]: movement datagram sent locally; count=300 (server acceptance unknown)
+[MOVE STATE] [S3]: movement datagram sent locally; count=300 (server acceptance unknown)
+[MOVE STATE] [S1]: movement datagram sent locally; count=300 (server acceptance unknown)
+[MOVE STATE] [S2]: obstacle recovery attempt=2 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [M]: obstacle recovery attempt=2 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S3]: obstacle recovery attempt=2 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S1]: obstacle recovery attempt=2 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S1]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [M]: obstacle recovery attempt=3 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S1]: obstacle recovery attempt=3 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S2]: obstacle recovery attempt=3 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S3]: obstacle recovery attempt=3 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S3]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S3]: obstacle recovery attempt=4 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [M]: obstacle recovery attempt=4 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S1]: obstacle recovery attempt=4 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S2]: obstacle recovery attempt=4 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [M]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S2]: obstacle recovery attempt=5 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S1]: obstacle recovery attempt=5 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S3]: obstacle recovery attempt=5 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [M]: obstacle recovery attempt=5 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S3]: obstacle recovery attempt=6 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S1]: obstacle recovery attempt=6 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S2]: obstacle recovery attempt=6 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [M]: obstacle recovery attempt=6 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S2]: obstacle recovery attempt=7 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S3]: obstacle recovery attempt=7 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S1]: obstacle recovery attempt=7 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [M]: obstacle recovery attempt=7 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S2]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S1]: obstacle recovery attempt=8 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S3]: obstacle recovery attempt=8 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [M]: obstacle recovery attempt=8 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S2]: obstacle recovery attempt=8 strategy=wide-turn; no 3s horizontal progress
+[20:31:28.461] [BR-WATCH] [M] phase=thunder_sharma_sent layout_source=assignment elapsed=600.2s rx_idle=0.0s self_age=0.0s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=125259 wrong_source=0 undecodable=63835 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1297 opaque103=0 opaque107=241 opaque139=3 opaque256=4 opaque393=1
+[20:31:28.496] [BR-WATCH] [S2] phase=thunder_sharma_sent layout_source=assignment elapsed=600.3s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=175167 wrong_source=0 undecodable=61971 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1301 opaque103=0 opaque107=297 opaque139=3 opaque256=4 opaque393=1
+[20:31:28.589] [BR-WATCH] [S1] phase=thunder_sharma_sent layout_source=assignment elapsed=600.3s rx_idle=0.1s self_age=0.2s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=138650 wrong_source=0 undecodable=62218 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1301 opaque103=0 opaque107=284 opaque139=3 opaque256=4 opaque393=1
+[20:31:28.618] [BR-WATCH] [S3] phase=thunder_sharma_sent layout_source=assignment elapsed=600.2s rx_idle=0.0s self_age=0.0s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=130878 wrong_source=0 undecodable=64381 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1585 opaque103=0 opaque107=264 opaque139=3 opaque256=4 opaque393=1
+[MOVE STATE] [S3]: obstacle recovery attempt=9 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [M]: obstacle recovery attempt=9 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S2]: obstacle recovery attempt=9 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S1]: obstacle recovery attempt=9 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S1]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S3]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S3]: obstacle recovery attempt=10 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S1]: obstacle recovery attempt=10 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [M]: obstacle recovery attempt=10 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S2]: obstacle recovery attempt=10 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [M]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S3]: obstacle recovery attempt=11 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S1]: obstacle recovery attempt=11 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [M]: obstacle recovery attempt=11 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S2]: obstacle recovery attempt=11 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S2]: movement datagram sent locally; count=330 (server acceptance unknown)
+[MOVE STATE] [M]: obstacle recovery attempt=12 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S2]: obstacle recovery attempt=12 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S1]: obstacle recovery attempt=12 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S3]: obstacle recovery attempt=12 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [M]: movement datagram sent locally; count=330 (server acceptance unknown)
+[MOVE STATE] [S1]: movement datagram sent locally; count=330 (server acceptance unknown)
+[MOVE STATE] [S3]: movement datagram sent locally; count=330 (server acceptance unknown)
+[MOVE STATE] [S1]: obstacle recovery attempt=13 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [M]: obstacle recovery attempt=13 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S3]: obstacle recovery attempt=13 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S2]: obstacle recovery attempt=13 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [M]: obstacle recovery attempt=14 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S3]: obstacle recovery attempt=14 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S1]: obstacle recovery attempt=14 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S2]: obstacle recovery attempt=14 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S3]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S2]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [M]: obstacle recovery attempt=15 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S1]: obstacle recovery attempt=15 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S3]: obstacle recovery attempt=15 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S2]: obstacle recovery attempt=15 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S1]: experimental jump-shaped movement state sent; jump unconfirmed
+[20:31:58.461] [BR-WATCH] [M] phase=thunder_sharma_sent layout_source=assignment elapsed=630.2s rx_idle=0.1s self_age=0.2s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=132814 wrong_source=0 undecodable=66905 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1347 opaque103=0 opaque107=254 opaque139=3 opaque256=4 opaque393=1
+[20:31:58.496] [BR-WATCH] [S2] phase=thunder_sharma_sent layout_source=assignment elapsed=630.3s rx_idle=0.0s self_age=0.2s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=183208 wrong_source=0 undecodable=65021 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1351 opaque103=0 opaque107=316 opaque139=3 opaque256=4 opaque393=1
+[20:31:58.590] [BR-WATCH] [S1] phase=thunder_sharma_sent layout_source=assignment elapsed=630.3s rx_idle=0.1s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=145428 wrong_source=0 undecodable=65269 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1351 opaque103=0 opaque107=301 opaque139=3 opaque256=4 opaque393=1
+[20:31:58.619] [BR-WATCH] [S3] phase=thunder_sharma_sent layout_source=assignment elapsed=630.2s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=137641 wrong_source=0 undecodable=67453 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1635 opaque103=0 opaque107=281 opaque139=3 opaque256=4 opaque393=1
+[MOVE STATE] [S1]: obstacle recovery attempt=16 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S2]: obstacle recovery attempt=16 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [M]: obstacle recovery attempt=16 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S3]: obstacle recovery attempt=16 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [M]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S3]: obstacle recovery attempt=17 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [M]: obstacle recovery attempt=17 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S2]: obstacle recovery attempt=17 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S1]: obstacle recovery attempt=17 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S1]: obstacle recovery attempt=18 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S3]: obstacle recovery attempt=18 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [M]: obstacle recovery attempt=18 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S2]: obstacle recovery attempt=18 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S3]: obstacle recovery attempt=19 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S1]: obstacle recovery attempt=19 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [M]: obstacle recovery attempt=19 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S2]: obstacle recovery attempt=19 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S3]: obstacle recovery attempt=20 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S2]: obstacle recovery attempt=20 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S1]: obstacle recovery attempt=20 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [M]: obstacle recovery attempt=20 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S2]: obstacle recovery attempt=21 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S3]: obstacle recovery attempt=21 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [M]: obstacle recovery attempt=21 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S1]: obstacle recovery attempt=21 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S3]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S1]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S2]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S1]: obstacle recovery attempt=22 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S2]: obstacle recovery attempt=22 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [M]: obstacle recovery attempt=22 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S3]: obstacle recovery attempt=22 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [M]: experimental jump-shaped movement state sent; jump unconfirmed
+[20:32:28.467] [BR-WATCH] [M] phase=thunder_sharma_sent layout_source=assignment elapsed=660.2s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=142899 wrong_source=0 undecodable=70170 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1397 opaque103=0 opaque107=269 opaque139=6 opaque256=5 opaque393=1
+[20:32:28.496] [BR-WATCH] [S2] phase=thunder_sharma_sent layout_source=assignment elapsed=660.3s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=194287 wrong_source=0 undecodable=68284 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1401 opaque103=0 opaque107=336 opaque139=6 opaque256=5 opaque393=1
+[MOVE STATE] [S2]: movement datagram sent locally; count=360 (server acceptance unknown)
+[20:32:28.592] [BR-WATCH] [S1] phase=thunder_sharma_sent layout_source=assignment elapsed=660.3s rx_idle=0.0s self_age=0.2s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=153145 wrong_source=0 undecodable=68521 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1401 opaque103=0 opaque107=320 opaque139=6 opaque256=5 opaque393=1
+[20:32:28.620] [BR-WATCH] [S3] phase=thunder_sharma_sent layout_source=assignment elapsed=660.2s rx_idle=0.0s self_age=0.0s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=146625 wrong_source=0 undecodable=70716 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1685 opaque103=0 opaque107=300 opaque139=6 opaque256=5 opaque393=1
+[MOVE STATE] [S3]: movement datagram sent locally; count=360 (server acceptance unknown)
+[MOVE STATE] [S1]: movement datagram sent locally; count=360 (server acceptance unknown)
+[MOVE STATE] [M]: movement datagram sent locally; count=360 (server acceptance unknown)
+[MOVE STATE] [S1]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[MOVE STATE] [M]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[MOVE STATE] [S2]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[MOVE STATE] [S3]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[MOVE STATE] [M]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[MOVE STATE] [S1]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[MOVE STATE] [S2]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[MOVE STATE] [S3]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[MOVE STATE] [S3]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S1]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [S2]: experimental jump-shaped movement state sent; jump unconfirmed
+[MOVE STATE] [M]: experimental jump-shaped movement state sent; jump unconfirmed
+[20:32:57.748] [BR TIMER] BR fallback: attempt 37fa7e65bcec reached 690.0 seconds after all squad assignments (limit 690); not all local ends confirmed. Closing local sessions; server match end is unconfirmed.
+[20:32:57.766] [BR-WATCH] [S3] phase=thunder_sharma_sent reason=cancelled layout_source=assignment elapsed=689.4s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=1/4 rx=157365 wrong_source=0 undecodable=73697 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1720 opaque103=0 opaque107=318 opaque139=6 opaque256=5 opaque393=1
+[20:32:57.766] [UDP [S3]] ended reason=cancelled phase=thunder_sharma_sent startup_sent=True match_state=True hello_sends=1 ack_retries=0 received=157365 wrong_source=0 undecodable=73697 bad_crc=0
+[20:32:57.767] [BR-WATCH] [M] phase=thunder_sharma_sent reason=cancelled layout_source=assignment elapsed=689.5s rx_idle=0.1s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=2/4 rx=151621 wrong_source=0 undecodable=73167 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1447 opaque103=0 opaque107=283 opaque139=6 opaque256=5 opaque393=1
+[20:32:57.767] [UDP [M]] ended reason=cancelled phase=thunder_sharma_sent startup_sent=True match_state=True hello_sends=1 ack_retries=0 received=151621 wrong_source=0 undecodable=73167 bad_crc=0
+[20:32:57.767] [BR-WATCH] [S1] phase=thunder_sharma_sent reason=cancelled layout_source=assignment elapsed=689.4s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=3/4 rx=160349 wrong_source=0 undecodable=71487 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1451 opaque103=0 opaque107=338 opaque139=6 opaque256=5 opaque393=1
+[20:32:57.768] [UDP [S1]] ended reason=cancelled phase=thunder_sharma_sent startup_sent=True match_state=True hello_sends=1 ack_retries=0 received=160349 wrong_source=0 undecodable=71487 bad_crc=0
+[20:32:57.768] [BR-WATCH] [S2] phase=thunder_sharma_sent reason=cancelled layout_source=assignment elapsed=689.5s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=4/4 rx=204383 wrong_source=0 undecodable=71279 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1451 opaque103=0 opaque107=355 opaque139=6 opaque256=5 opaque393=1
+[20:32:57.768] [UDP [S2]] ended reason=cancelled phase=thunder_sharma_sent startup_sent=True match_state=True hello_sends=1 ack_retries=0 received=204383 wrong_source=0 undecodable=71279 bad_crc=0
+[20:32:57.980] [BR TIMER] Attempt 37fa7e65bcec: fallback cleanup completed.
+[20:32:59.336] Tcp Connected => sandeep_y6vo
+[20:32:59.528] Tcp Connected => sandeep_zd31
+[20:32:59.550] Tcp Connected => sandeep_8qpx
+[20:32:59.682] Tcp Connected => sandeep_ca25
+[20:33:40.670] Tcp Connected => sandeep_zd31
+[20:33:40.710] Tcp Connected => sandeep_8qpx
+[20:33:40.731] Tcp Connected => sandeep_y6vo
+[20:33:40.736] Tcp Connected => sandeep_ca25
+[20:33:47.726] [BR TIMER] Attempt 72dbf55925f9: all 4 BR assignments received; 690-second end-confirmation fallback started.
+[20:33:48.242] [UDP [S2]] hello sent; waiting for server response
+[20:33:48.271] [UDP [S3]] hello sent; waiting for server response
+[20:33:48.346] [UDP [M]] hello sent; waiting for server response
+[20:33:48.366] [UDP [S1]] hello sent; waiting for server response
+[20:33:48.578] [UDP [S3]] startup packets sent; awaiting match state
+[20:33:48.608] [UDP [S2]] startup packets sent; awaiting match state
+[20:33:48.723] [UDP [M]] startup packets sent; awaiting match state
+[20:33:48.805] [UDP [S1]] startup packets sent; awaiting match state
+[20:34:18.260] [BR-WATCH] [S2] phase=thunder_sharma_sent layout_source=assignment elapsed=30.0s rx_idle=0.0s self_age=none started=1 state_seen=1 self_id=0 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=3805 wrong_source=0 undecodable=2674 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=351 opaque103=0 opaque107=0 opaque139=0 opaque256=0 opaque393=0
+[20:34:18.290] [BR-WATCH] [S3] phase=thunder_sharma_sent layout_source=assignment elapsed=30.0s rx_idle=0.0s self_age=none started=1 state_seen=1 self_id=0 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=4860 wrong_source=0 undecodable=3552 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=336 opaque103=0 opaque107=0 opaque139=0 opaque256=0 opaque393=0
+[20:34:18.366] [BR-WATCH] [M] phase=thunder_sharma_sent layout_source=assignment elapsed=30.0s rx_idle=0.0s self_age=none started=1 state_seen=1 self_id=0 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=4657 wrong_source=0 undecodable=2682 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=351 opaque103=0 opaque107=0 opaque139=0 opaque256=0 opaque393=0
+[20:34:18.372] [BR-WATCH] [S1] phase=thunder_sharma_sent layout_source=assignment elapsed=30.0s rx_idle=0.1s self_age=none started=1 state_seen=1 self_id=0 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=4718 wrong_source=0 undecodable=2621 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=351 opaque103=0 opaque107=0 opaque139=0 opaque256=0 opaque393=0
+[MOVE STATE] [S1]: waiting position/assignment gate 69997ms
+[MOVE STATE] [S3]: waiting position/assignment gate 69998ms
+[MOVE STATE] [M]: waiting position/assignment gate 69996ms
+[MOVE STATE] [S2]: waiting position/assignment gate 69996ms
+[20:34:48.279] [BR-WATCH] [S2] phase=thunder_sharma_sent layout_source=assignment elapsed=60.0s rx_idle=0.1s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=9410 wrong_source=0 undecodable=6300 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=401 opaque103=0 opaque107=0 opaque139=0 opaque256=0 opaque393=0
+[20:34:48.299] [BR-WATCH] [S3] phase=thunder_sharma_sent layout_source=assignment elapsed=60.0s rx_idle=0.1s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=9429 wrong_source=0 undecodable=7150 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=502 opaque103=0 opaque107=0 opaque139=0 opaque256=0 opaque393=0
+[20:34:48.368] [BR-WATCH] [M] phase=thunder_sharma_sent layout_source=assignment elapsed=60.0s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=10847 wrong_source=0 undecodable=6296 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=624 opaque103=0 opaque107=0 opaque139=0 opaque256=0 opaque393=0
+[20:34:48.392] [BR-WATCH] [S1] phase=thunder_sharma_sent layout_source=assignment elapsed=60.0s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=10434 wrong_source=0 undecodable=6238 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=600 opaque103=0 opaque107=0 opaque139=0 opaque256=0 opaque393=0
+[20:35:18.290] [BR-WATCH] [S2] phase=thunder_sharma_sent layout_source=assignment elapsed=90.0s rx_idle=0.0s self_age=0.2s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=13864 wrong_source=0 undecodable=9320 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=701 opaque103=0 opaque107=0 opaque139=0 opaque256=0 opaque393=0
+[20:35:18.315] [BR-WATCH] [S3] phase=thunder_sharma_sent layout_source=assignment elapsed=90.0s rx_idle=0.0s self_age=0.2s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=14102 wrong_source=0 undecodable=10184 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=758 opaque103=0 opaque107=0 opaque139=0 opaque256=0 opaque393=0
+[20:35:18.372] [BR-WATCH] [M] phase=thunder_sharma_sent layout_source=assignment elapsed=90.0s rx_idle=0.1s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=16535 wrong_source=0 undecodable=9314 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=749 opaque103=0 opaque107=0 opaque139=0 opaque256=0 opaque393=0
+[20:35:18.432] [BR-WATCH] [S1] phase=thunder_sharma_sent layout_source=assignment elapsed=90.1s rx_idle=0.1s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=15433 wrong_source=0 undecodable=9272 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=701 opaque103=0 opaque107=0 opaque139=0 opaque256=0 opaque393=0
+[MOVE STATE] [M]: movement datagram sent locally; count=1 (server acceptance unknown)
+[MOVE STATE] [S1]: movement datagram sent locally; count=1 (server acceptance unknown)
+[MOVE STATE] [S2]: movement datagram sent locally; count=1 (server acceptance unknown)
+[MOVE STATE] [S3]: movement datagram sent locally; count=1 (server acceptance unknown)
+[MOVE STATE] [S3]: obstacle recovery attempt=1 strategy=capture-turn; no 3s horizontal progress
+[20:35:48.292] [BR-WATCH] [S2] phase=thunder_sharma_sent layout_source=assignment elapsed=120.0s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=17991 wrong_source=0 undecodable=12384 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1000 opaque103=0 opaque107=0 opaque139=0 opaque256=0 opaque393=0
+[20:35:48.340] [BR-WATCH] [S3] phase=thunder_sharma_sent layout_source=assignment elapsed=120.1s rx_idle=0.0s self_age=0.1s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=18536 wrong_source=0 undecodable=13242 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=808 opaque103=0 opaque107=0 opaque139=0 opaque256=0 opaque393=0
+[20:35:48.385] [BR-WATCH] [M] phase=thunder_sharma_sent layout_source=assignment elapsed=120.0s rx_idle=0.1s self_age=0.2s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=20457 wrong_source=0 undecodable=12071 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1039 opaque103=0 opaque107=0 opaque139=0 opaque256=0 opaque393=0
+[20:35:48.435] [BR-WATCH] [S1] phase=thunder_sharma_sent layout_source=assignment elapsed=120.1s rx_idle=0.0s self_age=0.2s started=1 state_seen=1 self_id=1 self_dead=0 knocked=0 squad_dead=0/4 squad_ended=0/4 rx=19510 wrong_source=0 undecodable=12304 bad_crc=0 end103=0 disconnect4=0 death107=0 self107=0 unmatched107=0 end_bad_crc=0 end_prestart=0 opaque4=0 opaque101=1193 opaque103=0 opaque107=0 opaque139=0 opaque256=0 opaque393=0
+[MOVE STATE] [S3]: obstacle recovery attempt=2 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [S3]: obstacle recovery attempt=3 strategy=wide-turn; no 3s horizontal progress
+[MOVE STATE] [M]: experimental jump-shaped movement state sent; jump unconfirmed
