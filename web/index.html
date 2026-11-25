@@ -20,7 +20,7 @@
 import{initializeApp}from'https://www.gstatic.com/firebasejs/10.12.2/firebase-app.js';
 import{getAuth,onAuthStateChanged,createUserWithEmailAndPassword,signInWithEmailAndPassword,GoogleAuthProvider,signInWithPopup,signOut,setPersistence,browserLocalPersistence}from'https://www.gstatic.com/firebasejs/10.12.2/firebase-auth.js';
 import{getFirestore,doc,getDoc,setDoc,serverTimestamp}from'https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore.js';
-const config={apiKey:'AIzaSyDsAwUplm90XLCh-n60XXF1Dz37w8akcYU',authDomain:'studio-3607214974-ad41a.firebaseapp.com',projectId:'studio-3607214974-ad41a',storageBucket:'studio-3607214974.firebasestorage.app',messagingSenderId:'798171833576',appId:'1:798171833576:web:99eb4457fd8a96dc4d155d'};
+const config={apiKey:'AIzaSyDsAwUplm90XLCh-n60XXF1Dz37w8akcYU',authDomain:'studio-3607214974-ad41a.firebaseapp.com',projectId:'studio-3607214974-ad41a',storageBucket:'studio-3607214974-ad41a.firebasestorage.app',messagingSenderId:'798171833576',appId:'1:798171833576:web:99eb4457fd8a96dc4d155d'};
 const app=initializeApp(config),auth=getAuth(app),db=getFirestore(app),$=id=>document.getElementById(id);let user=null,mode='login',data={accounts:[],guildId:'',requests:[]};
 const msg=(s)=>$('authMsg').textContent=s;
 function showAuth(){ $('auth').classList.remove('hidden');$('app').classList.add('hidden') }
