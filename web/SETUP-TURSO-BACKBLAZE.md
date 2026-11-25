@@ -1,6 +1,6 @@
 # Guild Glory storage setup (Firebase Auth + Turso + Backblaze B2)
 
-The dashboard keeps Firebase Authentication for email/password and Google sign-in. Firestore is no longer used. The Pages Function at `functions/api/[[path]].js` verifies Firebase ID tokens, stores each user's workspace in Turso, and uploads images to Backblaze B2.
+The dashboard keeps Firebase Authentication for email/password and Google sign-in. Firestore is no longer used. The Pages Function at repository-root `functions/api/[[path]].js` verifies Firebase ID tokens, stores each user's workspace in Turso, and uploads images to Backblaze B2.
 
 ## 1. Create a Turso database
 
